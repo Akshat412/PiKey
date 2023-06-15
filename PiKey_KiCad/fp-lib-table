@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "M.2-Templates")(type "KiCad")(uri "${KIPRJMOD}/Libraries/M.2-Templates.pretty")(options "")(descr "M.2 key edge footoprint from timonsku"))
+)
