@@ -119,7 +119,7 @@
       36
     ],
     "visible_layers": "ffc3fff_ffffffff",
-    "zone_display_mode": 1
+    "zone_display_mode": 0
   },
   "meta": {
     "filename": "PiKey_KiCad.kicad_prl",
