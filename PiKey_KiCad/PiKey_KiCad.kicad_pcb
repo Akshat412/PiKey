@@ -5,6 +5,12 @@
   )
 
   (paper "A4")
+  (title_block
+    (title "PiKey: RP2040 M.2 B+M SoM")
+    (date "2023-09-15")
+    (rev "v1.0")
+  )
+
   (layers
     (0 "F.Cu" signal)
     (1 "In1.Cu" signal)
@@ -1914,7 +1920,7 @@
     (stroke (width 0.15) (type solid)) (fill solid) (layer "F.SilkS") (tstamp 638d9b4d-ede6-454e-b51f-6f37ba6dc8e4))
   (gr_circle (center 149.3 104.8) (end 149.441421 104.8)
     (stroke (width 0.15) (type solid)) (fill solid) (layer "F.SilkS") (tstamp cb8b6f98-1bb2-4202-a6ae-261c2268d1ae))
-  (gr_circle (center 152.55 113.25) (end 152.691421 113.25)
+  (gr_circle (center 153.65 113.25) (end 153.791421 113.25)
     (stroke (width 0.15) (type solid)) (fill solid) (layer "F.SilkS") (tstamp dd155672-d4ac-499c-a10c-c39a8441fdef))
   (gr_circle (center 140.85 97.45) (end 140.991421 97.45)
     (stroke (width 0.15) (type solid)) (fill solid) (layer "F.SilkS") (tstamp fe34be20-788e-4ae2-809c-9d121555bfed))
@@ -1945,7 +1951,7 @@
   (dimension (type aligned) (layer "Dwgs.User") (tstamp 45ff975d-307d-4bce-9857-82926c126585)
     (pts (xy 164.4 86.7) (xy 164.4 128.7))
     (height 0)
-    (gr_text "1653.5433 mils" (at 163.25 107.7 90) (layer "Dwgs.User") (tstamp 45ff975d-307d-4bce-9857-82926c126585)
+    (gr_text "42.0000 mm" (at 163.25 107.7 90) (layer "Dwgs.User") (tstamp 45ff975d-307d-4bce-9857-82926c126585)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (format (prefix "") (suffix "") (units 3) (units_format 1) (precision 4))
@@ -1954,7 +1960,7 @@
   (dimension (type aligned) (layer "Dwgs.User") (tstamp 6355757f-b55d-4181-a5ed-77a3acc9b22a)
     (pts (xy 138.4 82.7) (xy 160.4 82.7))
     (height 0)
-    (gr_text "866.1417 mils" (at 149.4 81.55) (layer "Dwgs.User") (tstamp 6355757f-b55d-4181-a5ed-77a3acc9b22a)
+    (gr_text "22.0000 mm" (at 149.4 81.55) (layer "Dwgs.User") (tstamp 6355757f-b55d-4181-a5ed-77a3acc9b22a)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (format (prefix "") (suffix "") (units 3) (units_format 1) (precision 4))

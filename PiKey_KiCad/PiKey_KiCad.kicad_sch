@@ -4,6 +4,12 @@
 
   (paper "A4")
 
+  (title_block
+    (title "PiKey: RP2040 M.2 B+M SoM")
+    (date "2023-09-15")
+    (rev "v1.0")
+  )
+
   (lib_symbols
     (symbol "Connector:Conn_ARM_JTAG_SWD_10" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
       (property "Reference" "J" (at -2.54 16.51 0)
